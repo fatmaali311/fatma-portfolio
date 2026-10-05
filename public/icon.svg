@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Outer Burgundy Monogram Tile matching loading page -->
+  <rect width="512" height="512" rx="112" fill="#8F1D2C"/>
+  <rect x="20" y="20" width="472" height="472" rx="96" fill="none" stroke="#E8B4BC" stroke-width="12" stroke-opacity="0.5"/>
+
+  <!-- Centered Bold FA Monogram Text -->
+  <text x="50%" y="54%" font-family="Georgia, 'Playfair Display', serif" font-size="240" font-weight="bold" fill="#FDFBF7" text-anchor="middle" dominant-baseline="middle" letter-spacing="-6">
+    FA
+  </text>
+</svg>
